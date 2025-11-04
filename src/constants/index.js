@@ -12,6 +12,9 @@ import {
   tailwind,
   nodejs,
   mongodb,
+  java,
+  python,
+  C++,
   git,
   figma,
   docker,
@@ -23,6 +26,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  midwest,
+  UNL,
 } from "../assets";
 
 export const navLinks = [
@@ -81,8 +86,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Java",
+    icon: java,
   },
   {
     name: "Tailwind CSS",
@@ -93,12 +98,12 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Python",
+    icon: python,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "C++",
+    icon: C++,
   },
   {
     name: "git",
@@ -116,57 +121,44 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Sotware Developer Intern",
+    company_name: "Midwest Holdings via Senior Design",
+    icon: midwest,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "August 2025 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Building a mobile-responsive Progressive Web App (PWA) using Django and Django Templates for customer and agent interaction.",
+      "Enabling customers to view policy details, track transactions, and submit support tickets for technical assistance through an intuitive interface.",
+      "Collaborating in Agile sprints to design, implement, and enhance policy management views and support ticket features.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "It Assistant",
+    company_name: "University of Nebraska-Lincoln",
+    icon: UNL,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2024 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Collaborating in Agile sprints to design, implement, and enhance policy management views and support ticket features.",
+      "Managed laptop checkouts, reformatting, and delivered responsible technical support both in person and remotely",
+      "Utilized ticketing systems to track, prioritize, and resolve technical issues efficiently while maintaining detailed documentation."
+      
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Soccer Official",
+    company_name: "University of Nebraska-Lincoln",
+    icon: UNL,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Aug 2023 - Jan 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Officiated competitive and recreational soccer matches while enforcing game rules and ensuring fair play.",
+      "Maintained focus and quick decision-making in fast-paced, high-pressure environments.",
+      "Collaborated with other officials to ensure consistent and accurate enforcement of match regulations.",
+      
     ],
   },
+  
 ];
 
 const testimonials = [
