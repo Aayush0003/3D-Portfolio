@@ -14,7 +14,7 @@ import {
   mongodb,
   java,
   python,
-  C++,
+  Cplus,
   git,
   figma,
   docker,
@@ -102,8 +102,8 @@ const technologies = [
     icon: python,
   },
   {
-    name: "C++",
-    icon: C++,
+    name: "Cplus",
+    icon: Cplus,
   },
   {
     name: "git",
