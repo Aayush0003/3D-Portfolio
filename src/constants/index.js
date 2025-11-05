@@ -190,67 +190,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Grocery Store Website",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that enables users to browse, purchase, and manage grocery orders online, integrating customer checkout, inventory management, and logistics for a seamless shopping experience.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "ASP.NET Core",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "SQL",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Aayush0003/GroceryWebsite",
   },
   {
-    name: "Job IT",
+    name: "Farmart Sales Management System",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Desktop-based system designed to streamline sales operations and inventory tracking for retail businesses, enhancing data reliability, reporting accuracy, and customer service efficiency through secure design and database integration.",
     tags: [
       {
-        name: "react",
+        name: "Java",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "MySQL",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "SDLC",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Aayush0003/Far-Mart-Java-Project",
   },
   {
-    name: "Trip Guide",
+    name: "iPhone 15 Pro Website Clone",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Interactive web experience replicating Apple’s iPhone 15 Pro product page, featuring smooth scroll animations and 3D model rendering.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "GSAP",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Tailwind CSS",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Aayush0003/IPhoneWebsite",
   },
 ];
 
