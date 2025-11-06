@@ -36,6 +36,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import OnlineGrocery from "./OnlineGrocery.png";
 import IphoneClone from "./IphoneClone.png";
+import Farmart from "./Farmart.png";
 
 export {
   logo,
@@ -73,4 +74,5 @@ export {
   UNL,
   OnlineGrocery,
   IphoneClone,
+  Farmart,
 };
