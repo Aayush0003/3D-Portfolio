@@ -34,6 +34,8 @@ import UNL from "./company/UNL.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import OnlineGrocery from "./OnlineGrocery.png";
+import IphoneClone from "./IphoneClone.png";
 
 export {
   logo,
@@ -69,4 +71,6 @@ export {
   tripguide,
   midwest,
   UNL,
+  OnlineGrocery,
+  IphoneClone,
 };

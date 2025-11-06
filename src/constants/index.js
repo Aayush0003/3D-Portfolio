@@ -25,6 +25,8 @@ import {
   carrent,
   jobit,
   tripguide,
+  OnlineGrocery,
+  IphoneClone,
   threejs,
   midwest,
   UNL,
@@ -207,7 +209,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: OnlineGrocery,
     source_code_link: "https://github.com/Aayush0003/GroceryWebsite",
   },
   {
@@ -249,7 +251,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: IphoneClone,
     source_code_link: "https://github.com/Aayush0003/IPhoneWebsite",
   },
 ];
