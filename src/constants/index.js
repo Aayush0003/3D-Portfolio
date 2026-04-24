@@ -125,7 +125,7 @@ const technologies = [
 const experiences = [
   {
     title: "Sotware Developer Intern",
-    company_name: "Midwest Holdings via Senior Design",
+    company_name: "American Life via Senior Design",
     icon: midwest,
     iconBg: "#383E56",
     date: "August 2025 - Present",
